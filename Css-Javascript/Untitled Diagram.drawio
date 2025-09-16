@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
   <diagram name="Page-1" id="RhjmA6OBy8CS-5F4wgAC">
-    <mxGraphModel dx="957" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
             <mxPoint x="360" y="600" as="sourcePoint" />
             <mxPoint x="410" y="550" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="760" y="510" />
+              <mxPoint x="800" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -246,6 +246,9 @@
           <mxGeometry x="0.4338" y="-2" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tZYwSCrGoD1mti8nqzn9-48" value="1. Cập nhật thông tin sinh viên, xem trạng thái lớp học phần&lt;div&gt;2.Thông tin sinh viên đã được cập nhật&lt;/div&gt;&lt;div&gt;3. Đăng kí tín chỉ&lt;/div&gt;&lt;div&gt;4. hiển thị thông tin đăng kí môn&lt;/div&gt;&lt;div&gt;5.kiểm tra điều kiện đăng kí tín chỉ&lt;/div&gt;&lt;div&gt;6.thông tin lớp học phần&lt;/div&gt;&lt;div&gt;7.Yêu Cầu lớp, sỉ số, lịch học&lt;/div&gt;&lt;div&gt;8.thông tin lớp học phần&lt;/div&gt;&lt;div&gt;9 cập nhật lịch dạy, lịch nghỉ, bù&lt;/div&gt;&lt;div&gt;10.danh sách lớp được phân&lt;/div&gt;&lt;div&gt;11.phân công giảng viên&lt;/div&gt;&lt;div&gt;12. lịch giảng dạy&lt;/div&gt;&lt;div&gt;13. Cập nhật, quản lý thông tin sinh viên&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;14.&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;642&quot; data-start=&quot;585&quot;&gt;tạo, chỉnh sửa, cập nhật và xóa thông tin các môn học&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt; trong hệ thống&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;15&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;quản lý lịch học thực tế của từng lớp học phần&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;16.&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;648&quot; data-start=&quot;580&quot;&gt;cập nhật thông tin giảng viên, phân công giảng viên&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;648&quot; data-start=&quot;580&quot;&gt;17.Cung Cấp danh mục học phần&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;648&quot; data-start=&quot;580&quot;&gt;18. cung cấp danh sách giảng viên&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="960" width="700" height="290" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
